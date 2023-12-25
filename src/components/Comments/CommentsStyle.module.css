@@ -1,0 +1,22 @@
+.img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+.MuiCardHeader-content {
+  width: 305px;
+}
+
+.subheader {
+  background-color: #D0D2CB;
+  border-radius: 8px;
+  width: 100%;
+  display: block;
+  padding: 8px;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-width: 100%;
+  overflow: hidden;
+  word-wrap: break-word;
+}

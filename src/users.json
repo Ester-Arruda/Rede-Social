@@ -1,0 +1,68 @@
+{ "users": [
+    {
+      "id": 1,
+      "img": "https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Curioso Gato Listrado",
+      "text": "Um adorável gato listrado explorando seu ambiente com curiosidade. Encantador e cheio de energia.",
+      "publicationDate": "2011-07-13T22:00:00-0300",
+      "author": "Luna Martins",
+      "amountLikes": 256,
+      "amountShares": 78,
+      "authorComments": "Marcelo Oliveira",
+      "comment": "A expressão desse gato é incrível! Parece que está descobrindo um novo mundo.",
+      "profileComments": "https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 2,
+      "img": "https://images.pexels.com/photos/179237/pexels-photo-179237.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Sonhador Felino",
+      "text": "Um gato sonhador descansando sob a luz do sol, exibindo uma expressão tranquila e serena.",
+      "publicationDate": "2011-07-14T22:30:00-0300",
+      "author": "Gabriel Silva",
+      "amountLikes": 198,
+      "amountShares": 45,
+      "authorComments": "Ana Oliveira",
+      "comment": "Esse gato parece estar aproveitando cada raio de sol. Que serenidade!",
+      "profileComments": "https://images.pexels.com/photos/4790612/pexels-photo-4790612.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    { 
+      "id": 3,
+      "img": "https://images.pexels.com/photos/16577560/pexels-photo-16577560/free-photo-of-difuso.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Aventureiro nas Alturas",
+      "text": "Um corajoso gato explorando alturas inexploradas, demonstrando destreza e curiosidade sem limites.",
+      "publicationDate": "2011-07-15T23:15:00-0300",
+      "author": "Isabel Pereira",
+      "amountLikes": 312,
+      "amountShares": 92,
+      "authorComments": "Carlos Silva",
+      "comment": "Incrível! Esse gato tem coragem de explorar alturas que muitos nem ousariam.",
+      "profileComments": "https://images.pexels.com/photos/1107807/pexels-photo-1107807.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 4,
+      "img": "https://images.pexels.com/photos/160839/cat-animal-love-pet-160839.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Majestoso Gato Preto",
+      "text": "Um gato preto majestoso e elegante, destacando-se em sua beleza única e postura imponente.",
+      "publicationDate": "2011-07-16T21:45:00-0300",
+      "author": "Lucas Santos",
+      "amountLikes": 421,
+      "amountShares": 107,
+      "authorComments": "Julia Costa",
+      "comment": "A elegância desse gato preto é impressionante. Um verdadeiro rei felino!",
+      "profileComments": "https://images.pexels.com/photos/12692139/pexels-photo-12692139.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 5,
+      "img": "https://images.pexels.com/photos/8559941/pexels-photo-8559941.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Amizade Felina",
+      "text": "Dois gatos fofos desfrutando de uma amizade calorosa, expressando carinho e cumplicidade.",
+      "publicationDate": "2011-07-17T20:30:00-0300",
+      "author": "Mariana Oliveira",
+      "amountLikes": 368,
+      "amountShares": 64,
+      "authorComments": "Pedro Lima",
+      "comment": "A amizade desses gatos é contagiante. É comovente ver a conexão entre eles.",
+      "profileComments": "https://images.pexels.com/photos/1314550/pexels-photo-1314550.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}

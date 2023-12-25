@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #18191A;
+}
+
+.containerFriends {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.containerCardFriends {
+  max-width: 205px;
+  margin: 15px;
+}

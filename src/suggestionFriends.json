@@ -1,0 +1,39 @@
+{
+  "suggestion": [
+    {
+      "id": 1,
+      "img": "https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "commonFriend": "Amigao Pereira",
+      "newFriend": "Carlos Oliveira",
+      "name": "Fulano Pereira"
+    },
+    {
+      "id": 2,
+      "img": "https://images.pexels.com/photos/179237/pexels-photo-179237.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "commonFriend": "Amiga Costa",
+      "newFriend": "Maria Almeida",
+      "name": "Beltrana Costa"
+    },
+    {
+      "id": 3,
+      "img": "https://images.pexels.com/photos/16577560/pexels-photo-16577560/free-photo-of-difuso.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "commonFriend": "Amigona Almeida",
+      "newFriend": "Joao Pereira",
+      "name": "Ciclano Almeida"
+    },
+    {
+      "id": 4,
+      "img": "https://images.pexels.com/photos/1107807/pexels-photo-1107807.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "commonFriend": "Amigao Silva",
+      "newFriend": "Ana Costa",
+      "name": "Deltano Silva"
+    },
+    {
+      "id": 5,
+      "img": "https://images.pexels.com/photos/12692139/pexels-photo-12692139.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "commonFriend": "Amiga Oliveira",
+      "newFriend": "Pedro Silva",
+      "name": "Eltana Oliveira"
+    }
+  ]
+}

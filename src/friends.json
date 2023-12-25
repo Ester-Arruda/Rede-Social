@@ -1,0 +1,33 @@
+{"friends": [
+    {
+      "id": 1,
+      "img": "https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Fulano Silva",
+      "amountCommonFriends": 15
+    },
+    {
+      "id": 2,
+      "img": "https://images.pexels.com/photos/179237/pexels-photo-179237.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Beltrano Oliveira",
+      "amountCommonFriends": 22
+    },
+    {
+      "id": 3,
+      "img": "https://images.pexels.com/photos/16577560/pexels-photo-16577560/free-photo-of-difuso.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Ciclano Santos",
+      "amountCommonFriends": 18
+    },
+    {
+      "id": 4,
+      "img": "https://images.pexels.com/photos/1107807/pexels-photo-1107807.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Deltano Pereira",
+      "amountCommonFriends": 10
+    },
+    {
+      "id": 5,
+      "img": "https://images.pexels.com/photos/12692139/pexels-photo-12692139.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Eltano Costa",
+      "amountCommonFriends": 27
+    }
+  ]
+}
